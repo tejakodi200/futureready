@@ -12,7 +12,7 @@ Our  Main aim is to provide the people  with accurate and relevant information t
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 - ## Screenshots
- 📸![Screenshot 2022-04-07-1]()
+ 📸![Screenshot 2022-04-07-1](https://github.com/tejakodi200/myrep2/blob/aa10ff0c6f3644e17d83af4e45708fd9e0ff025d/maintheme.png)
  
  
  
