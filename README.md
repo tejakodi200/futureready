@@ -24,13 +24,13 @@ Our  Main aim is to provide the people  with accurate and relevant information t
  
 
 
-![Screenshot 2022-04-07-2]()
+![Screenshot 2022-04-07-2]( https://github.com/tejakodi200/myrep2/blob/aa10ff0c6f3644e17d83af4e45708fd9e0ff025d/naboutus.png)
 
 
 ### Privacy policy -
 
 
-![Screenshot 2022-04-07-3]()
+![Screenshot 2022-04-07-3](https://github.com/tejakodi200/myrep2/blob/aa10ff0c6f3644e17d83af4e45708fd9e0ff025d/myprivacy.png)
 
 
 
