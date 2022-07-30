@@ -1,5 +1,5 @@
 # ✨ NHS Inform. ✨
-This is a web based application developed for Covid related aspects.
+This is a web based Apllication developed to provide information about health illnesses ,treatments,healthy living topics  with the help of some interactive tools.
 Our  Main aim is to provide the people  with accurate and relevant information to help them make informed decisions about their own health and the health of the people they care for.
 ### This web based health  application which has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 **Project Link** - https://nhsinform-n4.azurewebsites.net/
